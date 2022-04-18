@@ -1,0 +1,176 @@
+#
+# Configuration File
+#
+
+# Information for compile
+exclude: ["Gemfile", "README.md"]
+
+# Sass configuration
+sass:
+  sass_dir: _scss
+
+# Information for deploy
+baseurl: ""
+
+# the base hostname & protocol for your site
+url: "https://cc-business.sn"
+
+# Optional Features
+smooth-scroll: false
+
+# Website title
+title: CC - Business
+# Website language
+lang: sn
+
+#
+# Header section
+#
+header-title: Create the <strong>Impossible</strong>
+header-tagline: We Always
+header-focus-button:
+  title: Contact Us
+  url: #contact
+
+#
+# About section
+#
+about-title: Welcome to Sera
+about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
+
+#
+# Features section
+#
+features-title: Features
+features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+
+features:
+  - title: Immobilier
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: fas fa-home
+
+  - title: News
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: far fa-newspaper
+
+  - title: Services
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: fas fa-concierge-bell
+
+  - title: Intériem
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: fas fa-users
+
+  - title: Location voitures
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: fas fa-car-alt
+
+  - title: Communication
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: fas fa-envelope
+
+#
+# Portfolio section
+#
+portfolio-title: Portfolio
+portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+
+portfolio-categories:
+  [Websites, Logo, Graphic Design, Development, Video, Photography]
+portfolio:
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-01.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Websites]
+    image: img-02.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Photography]
+    image: img-03.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video, Photography]
+    image: img-04.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Logo]
+    image: img-05.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Video]
+    image: img-06.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-07.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video]
+    image: img-08.jpg
+    url: "#"
+
+  - title: S<span class="thin">era</span> Style
+    categories: [Photography, Logo]
+    image: img-09.jpg
+    url: "#"
+
+#
+# Team section
+#
+team-title: Meet Our Team
+team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+
+team:
+  - name: Jack Skilton
+    tagline: Graphic Designer
+    avatar: avatar-01.jpg
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
+
+  - name: James Young
+    tagline: Developer
+    avatar: avatar-02.jpg
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
+
+#
+# Contact section
+#
+contact-title: Contact Us
+contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-formspree: xoqrnzrq
+key-api: AIzaSyCTJqnx_RZj9ke74mn1vogvTt-rfK9mIYc
+map-lat: 14.732379
+map-lng: -17.312026
+
+#
+# Footer section
+#
+footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+footer-copyright-text: CC Business
+# Social media link
+youtube: "#"
+pinterest: "#"
+facebook: "#"
+twitter: "#"
+google-plus: "#"
+vimeo: "#"
+footer-copyright-url: https://cc-business.sn
+footer-copyright-year: 2022

@@ -1,0 +1,45 @@
+/**
+ *
+ *  Color Skin
+ *
+ **/
+
+// Theme Colors
+$red: #c12f38;
+
+// Global Pallete
+$white: #fff;
+$black: #000;
+$black-transparent:  rgba($black, 0.9);
+$light-blue: #f4f8f9;
+
+// Primary & Secondary
+$primary: $red;
+$secondary: #752327;
+
+// Gray Pallete
+$text-gray: #848484;
+$light-gray: #e3e9ed;
+$simple-gray: #bdc3c7;
+$normal-gray: #464646;
+$dark-gray: #202020;
+
+// Global Text Color
+$global-text: darken($text-gray, 15%);
+
+// Background Color
+$background-color: $white;
+
+// Sections Colors
+$section-bg: $white;
+$section-focus: $light-blue;
+
+// Footer Colors
+$footer-color: $text-gray;
+$footer-background-color: $dark-gray;
+
+// Sidebar Colors [Widgets]
+$sidebar-header: $light-blue;
+$sidebar-title: $secondary;
+
+$shadow-color: rgba(39, 36, 36, 0.1);
